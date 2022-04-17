@@ -9,6 +9,12 @@ Simply on the internet there are several things that are said to do something an
 
 Through discords, the internet, forums or other sources you can find hundreds of placebo files that claim to improve your connection or have an impact on the performance of your computer but most of them do not have any effect or do the opposite.
 
+In Summary : "Placebo is anything that is not DISTINCTIVELY better or worse than the other available options."
+
+"Placebo is anything that is a temporary 'fix' and must be repeated over and over to achieve similar results." "Placebo is anything that you do not understand enough to make an educated decision outside of "feel"." "Placebo is anything that can not be measured via controlled testing."
+
+"Placebo is anything that when weighing available options, you're unable to tell the difference due to uncontrollable factors impacting results.”(..)
+
 **THE END.**
 
 
@@ -20,5 +26,11 @@ En el caso de los tweaks es lo mismo, el usuario ejecuta algo y le hace creer qu
 Simplemente por internet hay varias cosas que se dice que hacen algo y solo es marketing o es algo creado pero no tiene ningun sentido porque no da ningun impacto en su tema.
 
 Por discords, internet, foros o otras fuentes puedes encontrar cientos de archivos placebos que dicen mejorar tu conexion o tener un impacto en el rendimiento de tu computadora pero la mayoria no hacen ningun efecto o hacen todo lo contrario.
+
+En Resuemn: "Placebo es cualquier cosa que no sea DISTINTIVAMENTE mejor o peor que las otras opciones disponibles".
+
+"Placebo es cualquier cosa que sea una 'solución' temporal y debe repetirse una y otra vez para lograr resultados similares". "Placebo es cualquier cosa que no entiendas lo suficiente como para tomar una decisión informada aparte de "sentir"." "Placebo es cualquier cosa que no se puede medir a través de pruebas controladas".
+
+"Placebo es cualquier cosa que, al sopesar las opciones disponibles, no puede notar la diferencia debido a factores incontrolables que afectan los resultados".
 
 **FIN.**
