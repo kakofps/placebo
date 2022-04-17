@@ -1,2 +1,2 @@
 # placebo
-Information of placebo tweaks etc.
+INFORMATION OF PLACEBO TWEAKS.
