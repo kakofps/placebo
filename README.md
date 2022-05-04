@@ -9,12 +9,6 @@ Simply on the internet there are several things that are said to do something an
 
 Through discords, the internet, forums or other sources you can find hundreds of placebo files that claim to improve your connection or have an impact on the performance of your computer but most of them do not have any effect or do the opposite.
 
-In Summary : "Placebo is anything that is not DISTINCTIVELY better or worse than the other available options."
-
-"Placebo is anything that is a temporary 'fix' and must be repeated over and over to achieve similar results." "Placebo is anything that you do not understand enough to make an educated decision outside of "feel"." "Placebo is anything that can not be measured via controlled testing."
-
-"Placebo is anything that when weighing available options, you're unable to tell the difference due to uncontrollable factors impacting results.”(..)
-
 **THE END.**
 
 
